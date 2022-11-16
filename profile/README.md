@@ -17,7 +17,7 @@ Hello Everyone !
 
 We are the core team members of Developer Student Club, CCOEW. Our team was formed in September 2022 and since then we have held multitude of workshops, from guiding students in creating their first PR on GitHub to running cloud applications.
 
-Our main is to make students realize the potential of Software Development, Machine Learning, Artificial Intelligence, Android Applications, Web technologies, Blockchain and many more such technologies which have the power of transforming the world . We help them to grow their knowledge on these technologies through peer to peer workshops and events.
+Our main aim is to make students realize the potential of Software Development, Machine Learning, Artificial Intelligence, Android Applications, Web technologies, Blockchain and many more such technologies which have the power of transforming the world . We help them to grow their knowledge on these technologies through peer to peer workshops and events.
 
 Activities conducted by us:
 
