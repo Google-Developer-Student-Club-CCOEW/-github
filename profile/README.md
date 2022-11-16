@@ -11,5 +11,5 @@
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>   
 
-<img alt="Team GDSC_Cummins" src="https://github.com/Google-Developer-Student-Club-CCOEW/.github/blob/master/image.jpg?raw=true" width="500" height="320" />
+<img alt="Team GDSC_Cummins" src="https://github.com/Google-Developer-Student-Club-CCOEW/.github/blob/main/image.jpg?raw=true" width="500" height="320" />
   
