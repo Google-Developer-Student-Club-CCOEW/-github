@@ -7,7 +7,7 @@
 <a href="https://mobile.twitter.com/GDSC_Cummins">
   <img align="left" alt="GDSC_Cummins | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/company/developerstudentclubs/">
+<a href="https://www.linkedin.com/company/developer-students-club-ccoew/">
   <img align="left" alt="GDSC_Cummins LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>   
 
