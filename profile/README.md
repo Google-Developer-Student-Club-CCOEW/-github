@@ -1,4 +1,4 @@
-# GOOGLE-DEVELOPER-STUDENT-CLUB-CCOEW-PUNE
+# GOOGLE-DEVELOPER-STUDENT-CLUB-CCOEW-X-MMCOE-PUNE
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Google-Developer-Student-Club-CCOEW..github)
  <a href="https://www.instagram.com/gdsc_cummins/">
